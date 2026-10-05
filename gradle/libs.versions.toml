@@ -6,8 +6,8 @@ publishing = { id = "me.modmuss50.mod-publish-plugin", version = "2.1.1" }
 licenser = { id = "net.neoforged.licenser", version = "0.7.5" }
 
 [libraries]
-forgified-fabric-api = { group = "org.sinytra.forgified-fabric-api", name = "forgified-fabric-api", version = "0.155.2+26.1.2+3.5.3" }
-forgified-fabric-loader = { group = "org.sinytra", name = "forgified-fabric-loader", version = "2.5.85+0.19.3+26.1.2" }
+forgified-fabric-api = { group = "org.sinytra.forgified-fabric-api", name = "forgified-fabric-api", version = "0.159.0+26.2" }
+forgified-fabric-loader = { group = "org.sinytra", name = "forgified-fabric-loader", version = "2.5.86+0.19.3+26.2" }
 clazz-tweaker = { group = "net.fabricmc", name = "class-tweaker", version = "0.3.0" }
 
 junit-jupiter = { group = "org.junit.jupiter", name = "junit-jupiter", version = "5.7.1" }
